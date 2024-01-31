@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://samplefocus.com/
+HostUrl=https://sample-focus-production.s3.us-west-1.amazonaws.com/samples/sample_files/59876/c814f1b2b143275eb9f728a9341256e1eb10327f/original/_Footsteps_on_dry_leaves.wav?response-content-disposition=attachment%3B%20filename%3Dfootsteps-on-dry-leaves-nature-recordings_118bpm_F_minor.wav&response-content-type=audio%2Fwav&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI2ZJXYGXIVHKFDIA%2F20240130%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20240130T200008Z&X-Amz-Expires=1200&X-Amz-SignedHeaders=host&X-Amz-Signature=2d9754d6787cc063116027c9d7af450f6a6dfb47c4fca3c4389ac204d4c56014
